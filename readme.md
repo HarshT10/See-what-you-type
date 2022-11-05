@@ -4,6 +4,7 @@
 
 ![See what you type](./Image/seewhatyoutype.JPG)
 
+[Netlify Link](https://seewhatyoutype-harshcodes.netlify.app/)
 
 ---
 
